@@ -1,0 +1,10 @@
+add WIRE a, WIRE b, WIRE c, WIRE d, SENSOR e, SENSOR f, WIRE a, WIRE p
+disp
+del 0, 4, 3
+disp
+del 2, 1
+disp
+del 5, 7
+disp
+del 6
+exit
